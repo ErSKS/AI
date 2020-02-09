@@ -31,6 +31,7 @@ AI **Labsheets**
 - AI Syllabus
 - AI Books
 - [AI Resource Page](https://bctnotes.com/artificial-intelligence/)
+- [AI Material (US)](https://www.cs.utexas.edu/~mooney/cs343/)
 - [AI YouTube Videos](https://www.youtube.com/playlist?list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
 - [AI Question Bank](https://drive.google.com/drive/folders/1toajMBDZ2Oap663ZuJxVKWqDSYgfCL-9?usp=sharing)
 - First Assessment Result - BCT III/II
