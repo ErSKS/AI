@@ -29,6 +29,7 @@ AI **Labsheets**
 
 **Useful Websites**
 - https://bctnotes.com/artificial-intelligence/
+- http://www.ioenotes.edu.np/notes/chapter-wise-notes-of-artificial-intelligence-ai-ioe-computer-engineering-286
 - http://aima.cs.berkeley.edu/index.html
 - https://www.cs.utexas.edu/~mooney/cs343/
 - https://people.eecs.berkeley.edu/~russell/
