@@ -1,6 +1,6 @@
 # Artificial Intelligence (AI) [Learning Materials] v1.0
 
-**Contact Email:** c.khwopa@gmail.com or computer.khwopa@gmail.com
+**Contact Email:** AI.Khwopa@gmail.com or computer.khwopa@gmail.com
 
  ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
