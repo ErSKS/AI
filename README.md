@@ -30,6 +30,8 @@ AI **Labsheets**
 **Miscellaneous**
 - AI Syllabus
 - AI Books
+- [AI Topics](https://aitopics.org/search)
+- [AI Resources](http://airesources.org/)
 - [AI Resource Page](https://bctnotes.com/artificial-intelligence/)
 - [AI Material (US)](https://www.cs.utexas.edu/~mooney/cs343/)
 - [AI Resource (Berkeley)](http://aima.cs.berkeley.edu/)
