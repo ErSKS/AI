@@ -27,6 +27,12 @@ AI **Labsheets**
 - [Cover Page of Lab Report](https://github.com/ErSKS/C_v3/blob/master/Cover_Page_of_Lab_Report.pdf)
 - Labsheets: [#1](https://github.com/ErSKS/C_v3/blob/master/Labsheet_1.pdf) | [#2](https://github.com/ErSKS/C_v3/blob/master/Labsheet_2.pdf) | [#3](https://github.com/ErSKS/C_v3/blob/master/Labsheet_3.pdf) | [#4](https://github.com/ErSKS/C_v3/blob/master/Labsheet_4.pdf) | [#5](https://github.com/ErSKS/C_v3/blob/master/Labsheet_5.pdf) | [#6](https://github.com/ErSKS/C_v3/blob/master/Labsheet_6.pdf) | [#7](https://github.com/ErSKS/C_v3/blob/master/Labsheet_7.pdf) | [#8](https://github.com/ErSKS/C_v3/blob/master/Labsheet_8.pdf) | [#9](https://github.com/ErSKS/C_v3/blob/master/Labsheet_9.pdf) | [#10](https://github.com/ErSKS/C_v3/blob/master/Labsheet_10.pdf) | [#11](https://github.com/ErSKS/C_v3/blob/master/Labsheet_11.pdf)
 
+**Useful Websites**
+- https://bctnotes.com/artificial-intelligence/
+- http://aima.cs.berkeley.edu/index.html
+- https://www.cs.utexas.edu/~mooney/cs343/
+- https://people.eecs.berkeley.edu/~russell/
+
 **Miscellaneous**
 - AI Syllabus
 - AI Books
