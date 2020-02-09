@@ -30,6 +30,7 @@ AI **Labsheets**
 **Miscellaneous**
 - AI Syllabus
 - AI Books
+- [AI Resource Page](https://bctnotes.com/artificial-intelligence/)
 - [AI Question Bank](https://drive.google.com/drive/folders/1toajMBDZ2Oap663ZuJxVKWqDSYgfCL-9?usp=sharing)
 - First Assessment Result - BCT III/II
 - Final Assessment Result - BEL III/II
