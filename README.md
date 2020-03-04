@@ -48,3 +48,7 @@ AI **Labsheets**
 - First Assessment Result - BCT III/II
 - Final Assessment Result - BEL III/II
 - Final Internal Marks of AI
+
+# Extra
+- http://introtodeeplearning.com/
+- [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
