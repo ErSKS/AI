@@ -18,14 +18,16 @@ Computer Programming **Lecturer Slides**
 
 
 AI **Assignments**
-- [Assignment#1](https://github.com/ErSKS/C_v3/blob/master/Assignment_1.pdf)
-- [Assignment#2](https://github.com/ErSKS/C_v3/blob/master/Assignment_2.pdf)
-- [Assignment#3](https://github.com/ErSKS/C_v3/blob/master/Assignment_3.pdf)
+- Assignment#1
+- Assignment#2
+- Assignment#3
+- Assignment#4
+- Assignment#5
 
 AI **Labsheets**
-- [Lab Instructions](https://github.com/ErSKS/C_v3/blob/master/Lab_Instructions.pdf)
-- [Cover Page of Lab Report](https://github.com/ErSKS/C_v3/blob/master/Cover_Page_of_Lab_Report.pdf)
-- Labsheets: [#1](https://github.com/ErSKS/C_v3/blob/master/Labsheet_1.pdf) | [#2](https://github.com/ErSKS/C_v3/blob/master/Labsheet_2.pdf) | [#3](https://github.com/ErSKS/C_v3/blob/master/Labsheet_3.pdf) | [#4](https://github.com/ErSKS/C_v3/blob/master/Labsheet_4.pdf) | [#5](https://github.com/ErSKS/C_v3/blob/master/Labsheet_5.pdf) | [#6](https://github.com/ErSKS/C_v3/blob/master/Labsheet_6.pdf) | [#7](https://github.com/ErSKS/C_v3/blob/master/Labsheet_7.pdf) | [#8](https://github.com/ErSKS/C_v3/blob/master/Labsheet_8.pdf) | [#9](https://github.com/ErSKS/C_v3/blob/master/Labsheet_9.pdf) | [#10](https://github.com/ErSKS/C_v3/blob/master/Labsheet_10.pdf) | [#11](https://github.com/ErSKS/C_v3/blob/master/Labsheet_11.pdf)
+- Lab Instructions
+- Cover Page of Lab Report
+- Labsheets: #1 | #2 | #3 | #4 | #5 | #6 | #7
 
 **Useful Websites**
 - https://bctnotes.com/artificial-intelligence/
