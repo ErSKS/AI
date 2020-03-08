@@ -52,6 +52,7 @@ AI **Labsheets**
 - Final Internal Marks of AI
 
 # Extra
+- [AI Trends 2020](https://www.youtube.com/watch?v=9RmaCNz1ngE)
 - [Intro. to Deep Learning](http://introtodeeplearning.com/)
 - [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Paper with Code](https://paperswithcode.com/)
