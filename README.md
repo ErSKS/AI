@@ -52,6 +52,8 @@ AI **Labsheets**
 - Final Internal Marks of AI
 
 # Extra
+- [AI - TutorialsPoint](https://www.tutorialspoint.com/artificial_intelligence/index.htm)
+- [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm)
 - [AI Trends 2020](https://www.youtube.com/watch?v=9RmaCNz1ngE)
 - [Intro. to Deep Learning](http://introtodeeplearning.com/)
 - [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
