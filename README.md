@@ -41,7 +41,7 @@ AI **Tools/Compiler**
 - https://people.eecs.berkeley.edu/~russell/
 
 **Miscellaneous**
-- AI Syllabus
+- [AI Syllabus](https://github.com/ErSKS/AI/blob/master/01_Syllabus_AI.pdf)
 - AI Books
 - [AI Topics](https://aitopics.org/search)
 - [AI Resources](http://airesources.org/)
