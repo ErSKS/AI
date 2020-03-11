@@ -1,6 +1,6 @@
 # Artificial Intelligence (AI) [Learning Materials] v1.0
 
-**Contact Email:** AI.Khwopa@gmail.com or computer.khwopa@gmail.com
+**Contact Email:** ai.khwopa@gmail.com or computer.khwopa@gmail.com
 
  ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
@@ -53,7 +53,7 @@ AI **Labsheets**
 
 # Extra
 - [AI - TutorialsPoint](https://www.tutorialspoint.com/artificial_intelligence/index.htm)
-- [AI - JavaPoint](https://www.javatpoint.com/artificial-intelligence-tutorial)
+- [AI - Java T Point](https://www.javatpoint.com/artificial-intelligence-tutorial)
 - [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm)
 - [AI Trends 2020](https://www.youtube.com/watch?v=9RmaCNz1ngE)
 - [Intro. to Deep Learning](http://introtodeeplearning.com/)
