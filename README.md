@@ -29,6 +29,10 @@ AI **Labsheets**
 - Cover Page of Lab Report
 - Labsheets: #1 | #2 | #3 | #4 | #5 | #6 | #7
 
+AI **Tools/Compiler**
+- [Download Prolog](https://www.swi-prolog.org/download/stable)
+- [Online Prolog Compiler](https://www.tutorialspoint.com/execute_prolog_online.php)
+
 **Useful Websites**
 - https://bctnotes.com/artificial-intelligence/
 - http://www.ioenotes.edu.np/notes/chapter-wise-notes-of-artificial-intelligence-ai-ioe-computer-engineering-286
