@@ -60,6 +60,7 @@ AI **Tools/Compiler**
 - [AI - Java T Point](https://www.javatpoint.com/artificial-intelligence-tutorial)
 - [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm)
 - [AI Trends 2020](https://www.youtube.com/watch?v=9RmaCNz1ngE)
+- [Machine Learning Tutorial in Python | Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
 - [Intro. to Deep Learning](http://introtodeeplearning.com/)
 - [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Paper with Code](https://paperswithcode.com/)
