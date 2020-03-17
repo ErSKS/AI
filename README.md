@@ -55,6 +55,9 @@ AI **Tools/Compiler**
 - Final Assessment Result - BEL III/II
 - Final Internal Marks of AI
 
+**DataSets**
+- [Kaggle](https://www.kaggle.com/datasets)
+
 # Extra
 - [AI - TutorialsPoint](https://www.tutorialspoint.com/artificial_intelligence/index.htm)
 - [AI - Java T Point](https://www.javatpoint.com/artificial-intelligence-tutorial)
