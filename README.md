@@ -44,6 +44,7 @@ AI **Tools/Compiler**
 - [AI Syllabus](https://github.com/ErSKS/AI/blob/master/01_Syllabus_AI.pdf)
 - AI Books
 - [AI Topics](https://aitopics.org/search)
+- [AI History](https://aitopics.org/misc/brief-history)
 - [AI Resources](http://airesources.org/)
 - [AI Resource Page](https://bctnotes.com/artificial-intelligence/)
 - [AI Material (US)](https://www.cs.utexas.edu/~mooney/cs343/)
