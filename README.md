@@ -43,6 +43,7 @@ AI **Tools/Compiler**
 **Miscellaneous**
 - [AI Syllabus](https://github.com/ErSKS/AI/blob/master/01_Syllabus_AI.pdf)
 - AI Books
+- [AI Org](https://www.aaai.org/)
 - [AI Topics](https://aitopics.org/search)
 - [AI History](https://aitopics.org/misc/brief-history)
 - [AI Resources](http://airesources.org/)
