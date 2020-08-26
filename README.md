@@ -47,6 +47,7 @@ AI **Tools/Compiler**
 - [Kaggle](https://www.kaggle.com/datasets)
 
 # Extra
+- [CSP Cross-Check](http://bach.istc.kobe-u.ac.jp/llp/crypt.html)
 - [AI - TutorialsPoint](https://www.tutorialspoint.com/artificial_intelligence/index.htm)
 - [AI - Java T Point](https://www.javatpoint.com/artificial-intelligence-tutorial)
 - [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm)
