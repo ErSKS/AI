@@ -1,28 +1,14 @@
-# Artificial Intelligence (AI) [Learning Materials] v1.0
+# Artificial Intelligence (AI) [Learning Materials] v2.0
 
 **Contact Email:** ai.khwopa@gmail.com or computer.khwopa@gmail.com
 
- ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+ ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 
-Lecturer **Slides**
-- Introduction to AI
-
-Computer Programming **Lecturer Slides**
-- Chapter 1: 
-- Chapter 2: 
-- Chapter 3: 
-- Chapter 4: 
-- Chapter 5: 
-- Chapter 6: 
-- Chapter 7: 
-
+Lecturer **Slides & Recorded Videos**
+- Available in MS Teams
 
 AI **Assignments**
-- Assignment#1
-- Assignment#2
-- Assignment#3
-- Assignment#4
-- Assignment#5
+- 5 Assignments are splitted into 50+ Tasks. Check in MS Teams
 
 AI **Labsheets**
 - Lab Instructions
