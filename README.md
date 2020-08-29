@@ -26,6 +26,11 @@ AI **Tools/Compiler**
 - https://www.cs.utexas.edu/~mooney/cs343/
 - https://people.eecs.berkeley.edu/~russell/
 
+**YouTube Channels**
+- [Artificial Intelligence by Gate Smasher](https://www.youtube.com/watch?v=uB3i-qV6VdM&list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI)
+- [Artificial Intelligence by Nisha Mittal](https://www.youtube.com/watch?v=J3ye-0TEii4&list=PL41Z-nyV-Dsh5hrjnSuKRNqXbB8S28lzM)
+- [Artificial Intelligence by Well Academy](https://www.youtube.com/watch?v=J7LqgglEfQw&list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
+
 **Miscellaneous**
 - [AI Syllabus](https://github.com/ErSKS/AI/blob/master/01_Syllabus_AI.pdf)
 - AI Books
