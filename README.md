@@ -15,6 +15,11 @@ AI **Labsheets**
 - Cover Page of Lab Report
 - Labsheets: #1 | #2 | #3 | #4 | #5 | #6 | #7
 
+** AI Tutorials ***
+- [Artificial Intelligence Tutorial for Beginners - Guru99](https://www.guru99.com/artificial-intelligence-tutorial.html)
+- [Artificial Intelligence Tutorial - JavaTpoints](https://www.javatpoint.com/artificial-intelligence-tutorial)
+- [Artificial Intelligence Tutorial - TutorialsPoint](https://www.tutorialspoint.com/artificial_intelligence/index.htm)
+
 AI **Tools/Compiler**
 - [Download Prolog](https://www.swi-prolog.org/download/stable)
 - [Online Prolog Compiler](https://www.tutorialspoint.com/execute_prolog_online.php)
