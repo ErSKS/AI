@@ -24,6 +24,18 @@ AI **Tools/Compiler**
 - [Download Prolog](https://www.swi-prolog.org/download/stable)
 - [Online Prolog Compiler](https://www.tutorialspoint.com/execute_prolog_online.php)
 
+**AI Presentations**
+1. [Image Classification - By Prashun Chitrakar](https://github.com/ErSKS/AI/blob/master/Image-Classification.pdf)
+2. [Collaborative Filtering - By Nirajan Prajapati](https://github.com/ErSKS/AI/blob/master/COLLABORATIVE-FILTERING.pdf)
+3. [Fb Face Verification - By Ajay Thakur](https://github.com/ErSKS/AI/blob/master/FB-Face-Verification.pdf)
+4. [Transfer Learning - By Lucky S. Shrestha](https://github.com/ErSKS/AI/blob/master/TRANSFER-LEARNING.pdf)
+5. [Word Embedding - By Prasanna Adhikari](https://github.com/ErSKS/AI/blob/master/WORD-EMBEDDINGS.pdf)
+6. [Data Mining - By Sujata Suwal](https://github.com/ErSKS/AI/blob/master/DATA-MINING.pdf)
+7. [Real Time Strategy Games - By Sahas Prajapati](https://github.com/ErSKS/AI/blob/master/Real-Time-Strategy-Games.pdf)
+8. [Artificial General Intelligence - By Sachit K. Shrestha](https://github.com/ErSKS/AI/blob/master/AGI.pdf)
+
+**AI Research Paper Presentation**
+
 **Useful Websites**
 - https://bctnotes.com/artificial-intelligence/
 - http://www.ioenotes.edu.np/notes/chapter-wise-notes-of-artificial-intelligence-ai-ioe-computer-engineering-286
