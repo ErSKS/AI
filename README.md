@@ -23,14 +23,18 @@ AI **Labsheets**
 AI **Tools/Compiler**
 - [Download Prolog](https://www.swi-prolog.org/download/stable)
 - [Online Prolog Compiler](https://www.tutorialspoint.com/execute_prolog_online.php)
+- [TensorFire Fast Style Transfer](https://tenso.rs/demos/fast-neural-style/)
+- [RNN Based Handwriting Generation](http://www.cs.toronto.edu/~graves/handwriting.cgi)
 
 **AI Simulations**
 - [AI Playground](https://theaiplayground.com/blocks/new)
 - [Machine Learning Playground](https://ml-playground.com/)
 - [GAN Lab - Play with GAN](https://poloclub.github.io/ganlab/)
 - [Tensorflow - NN Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.58364&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [Drum Machine AI Experiment](https://experiments.withgoogle.com/ai/drum-machine/view/)
 - [PoseNet - Online Pose Detection](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html)
 - [NVIDIA AI Playground](https://www.nvidia.com/en-us/research/ai-playground/)
+- [Cyborg Writer - Neural Text Synthesizer](https://cyborg.tenso.rs/)
 
 **AI Presentations - BCT 2074 Batch**
 1. [Image Classification - By Prashun Chitrakar](https://github.com/ErSKS/AI/blob/master/Image-Classification.pdf)
