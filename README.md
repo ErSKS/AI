@@ -33,6 +33,22 @@ AI **Tools/Compiler**
 6. [Data Mining - By Sujata Suwal](https://github.com/ErSKS/AI/blob/master/DATA-MINING.pdf)
 7. [Real Time Strategy Games - By Sahas Prajapati](https://github.com/ErSKS/AI/blob/master/Real-Time-Strategy-Games.pdf)
 8. [Artificial General Intelligence - By Sachit K. Shrestha](https://github.com/ErSKS/AI/blob/master/AGI.pdf)
+9. [Object Recognition - By Bibek Shyama](https://github.com/ErSKS/AI/blob/master/Object-Recognition.pdf)
+10. [Pose Estimation - By Niranjan Bekoju](https://github.com/ErSKS/AI/blob/master/Pose-Estimation.pdf)
+11. Twitter's AI - By Anusha Bajracharya
+12. Human Robot Interaction - By Bikesh Sitikhu
+13. Industrial Revolution v4.0 - By Luja Shakya
+14. Adversarial Attack - By Ram Katawal
+15. Dimensionality Reduction - By Rohit Prajapati
+16. [Deep Neural Network - By Ankit Shrestha](https://github.com/ErSKS/AI/blob/master/Deep-Neural-Network.pdf)
+17. Data Augmentation
+18. Generative Models
+19. Block Chain
+20. Visual Reasoning
+21. Continual Reasoning
+22. IBM Watson
+23. Domain Adaptation
+24. 2D PCA
 
 **AI Research Paper Presentation**
 
