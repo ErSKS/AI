@@ -39,7 +39,7 @@ AI **Tools/Compiler**
 12. [Human Robot Interaction - By Bikesh Sitikhu](https://github.com/ErSKS/AI/blob/master/HRI.pdf)
 13. [Industrial Revolution v4.0 - By Luja Shakya](https://github.com/ErSKS/AI/blob/master/Industrial-Revolution-v4.0.pdf)
 14. [Adversarial Attack - By Ram Katawal](https://github.com/ErSKS/AI/blob/master/ADVERSIAL-ATTACK.pdf)
-15. Dimensionality Reduction - By Rohit Prajapati
+15. [Dimensionality Reduction - By Rohit Prajapati](https://github.com/ErSKS/AI/blob/master/Dimensionality-Reduction.pdf)
 16. [Deep Neural Network - By Ankit Shrestha](https://github.com/ErSKS/AI/blob/master/Deep-Neural-Network.pdf)
 17. Data Augmentation
 18. Generative Models
