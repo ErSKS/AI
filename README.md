@@ -46,10 +46,10 @@ AI **Tools/Compiler**
 **YouTube Channels**
 - [Artificial Intelligence by Gate Smasher](https://www.youtube.com/watch?v=uB3i-qV6VdM&list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI)
 - [Artificial Intelligence by Nisha Mittal](https://www.youtube.com/watch?v=J3ye-0TEii4&list=PL41Z-nyV-Dsh5hrjnSuKRNqXbB8S28lzM)
-- [Artificial Intelligence by Well Academy](https://www.youtube.com/watch?v=J7LqgglEfQw&list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
+- [Artificial Intelligence by Abdul Sattar, Well Academy](https://www.youtube.com/watch?v=J7LqgglEfQw&list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
 - [Artificial Intelligence by Last Minute Tuition](https://www.youtube.com/watch?v=eIicc0UTd4M&list=PL0s3O6GgLL5cGHFY_ymkrevnapVCD9jU7)
 - [Artificial Intelligence by Bhanu Priya](https://www.youtube.com/watch?v=ZIuWSWbSoJE&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&index=23)
-- [Artificial Intelligence by Shree Ram Khaitu](https://www.youtube.com/watch?v=sWSaEIJTGxs&list=PLqMYNDIP-ioLGBVB3cCnKongtQSmp5uyL&index=9)
+- [Artificial Intelligence by Shree Ram Khaitu, Nepal Telecome](https://www.youtube.com/watch?v=sWSaEIJTGxs&list=PLqMYNDIP-ioLGBVB3cCnKongtQSmp5uyL&index=9)
 
 **Miscellaneous**
 - [AI Syllabus](https://github.com/ErSKS/AI/blob/master/01_Syllabus_AI.pdf)
