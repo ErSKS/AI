@@ -24,7 +24,7 @@ AI **Tools/Compiler**
 - [Download Prolog](https://www.swi-prolog.org/download/stable)
 - [Online Prolog Compiler](https://www.tutorialspoint.com/execute_prolog_online.php)
 
-**AI Presentations**
+**AI Presentations - BCT 2074 Batch**
 1. [Image Classification - By Prashun Chitrakar](https://github.com/ErSKS/AI/blob/master/Image-Classification.pdf)
 2. [Collaborative Filtering - By Nirajan Prajapati](https://github.com/ErSKS/AI/blob/master/COLLABORATIVE-FILTERING.pdf)
 3. [Fb Face Verification - By Ajay Thakur](https://github.com/ErSKS/AI/blob/master/FB-Face-Verification.pdf)
@@ -35,10 +35,10 @@ AI **Tools/Compiler**
 8. [Artificial General Intelligence - By Sachit K. Shrestha](https://github.com/ErSKS/AI/blob/master/AGI.pdf)
 9. [Object Recognition - By Bibek Shyama](https://github.com/ErSKS/AI/blob/master/Object-Recognition.pdf)
 10. [Pose Estimation - By Niranjan Bekoju](https://github.com/ErSKS/AI/blob/master/Pose-Estimation.pdf)
-11. Twitter's AI - By Anusha Bajracharya
-12. Human Robot Interaction - By Bikesh Sitikhu
-13. Industrial Revolution v4.0 - By Luja Shakya
-14. Adversarial Attack - By Ram Katawal
+11. [Twitter's AI - By Anusha Bajracharya](https://github.com/ErSKS/AI/blob/master/Twitters-AI.pdf)
+12. [Human Robot Interaction - By Bikesh Sitikhu](https://github.com/ErSKS/AI/blob/master/HRI.pdf)
+13. [Industrial Revolution v4.0 - By Luja Shakya](https://github.com/ErSKS/AI/blob/master/Industrial-Revolution-v4.0.pdf)
+14. [Adversarial Attack - By Ram Katawal](https://github.com/ErSKS/AI/blob/master/ADVERSIAL-ATTACK.pdf)
 15. Dimensionality Reduction - By Rohit Prajapati
 16. [Deep Neural Network - By Ankit Shrestha](https://github.com/ErSKS/AI/blob/master/Deep-Neural-Network.pdf)
 17. Data Augmentation
