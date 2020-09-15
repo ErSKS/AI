@@ -25,6 +25,7 @@ AI **Tools/Compiler**
 - [Online Prolog Compiler](https://www.tutorialspoint.com/execute_prolog_online.php)
 - [TensorFire Fast Style Transfer](https://tenso.rs/demos/fast-neural-style/)
 - [RNN Based Handwriting Generation](http://www.cs.toronto.edu/~graves/handwriting.cgi)
+- [QuickDraw](https://quickdraw.withgoogle.com/)
 
 **AI Simulations**
 - [AI Playground](https://theaiplayground.com/blocks/new)
