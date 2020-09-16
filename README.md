@@ -27,6 +27,9 @@ AI **Tools/Compiler**
 - [RNN Based Handwriting Generation](http://www.cs.toronto.edu/~graves/handwriting.cgi)
 - [QuickDraw](https://quickdraw.withgoogle.com/)
 
+**AI Projects**
+- Detecting Road Features - [Web](https://navoshta.com/detecting-road-features/) | [GitHub](https://github.com/navoshta/detecting-road-features)
+
 **AI Simulations**
 - [AI Playground](https://theaiplayground.com/blocks/new)
 - [Machine Learning Playground](https://ml-playground.com/)
