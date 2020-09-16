@@ -13,6 +13,7 @@ AI **Assignments**
 AI **Labsheets**
 - Lab Instructions
 - [Guide to use SWI-Prolog](http://athena.ecs.csus.edu/~mei/logicp/prolog/swi-prolog.html)
+- [Prolog Examples](http://athena.ecs.csus.edu/~mei/logicp/prolog/programming-examples.html)
 - Cover Page of Lab Report
 - Labsheets: [#1](https://swish.swi-prolog.org/p/Lab_1_1.pl) | #2 | #3 | #4 | #5 | #6 | #7
 
