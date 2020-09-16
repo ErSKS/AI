@@ -14,7 +14,7 @@ AI **Labsheets**
 - Lab Instructions
 - [Guide to use SWI-Prolog](http://athena.ecs.csus.edu/~mei/logicp/prolog/swi-prolog.html)
 - Cover Page of Lab Report
-- Labsheets: #1 | #2 | #3 | #4 | #5 | #6 | #7
+- Labsheets: [#1](https://swish.swi-prolog.org/p/Lab_1_1.pl) | #2 | #3 | #4 | #5 | #6 | #7
 
 **AI Tutorials**
 - [Artificial Intelligence Tutorial for Beginners - Guru99](https://www.guru99.com/artificial-intelligence-tutorial.html)
@@ -23,6 +23,7 @@ AI **Labsheets**
 
 AI **Tools/Compiler**
 - [Download Prolog](https://www.swi-prolog.org/download/stable)
+- [Online SWI-Prolog](https://swish.swi-prolog.org)
 - [Online Prolog Compiler](https://www.tutorialspoint.com/execute_prolog_online.php)
 - [TensorFire Fast Style Transfer](https://tenso.rs/demos/fast-neural-style/)
 - [RNN Based Handwriting Generation](http://www.cs.toronto.edu/~graves/handwriting.cgi)
