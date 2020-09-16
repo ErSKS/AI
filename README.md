@@ -15,7 +15,7 @@ AI **Labsheets**
 - Cover Page of Lab Report
 - Labsheets: #1 | #2 | #3 | #4 | #5 | #6 | #7
 
-** AI Tutorials ***
+**AI Tutorials**
 - [Artificial Intelligence Tutorial for Beginners - Guru99](https://www.guru99.com/artificial-intelligence-tutorial.html)
 - [Artificial Intelligence Tutorial - JavaTpoints](https://www.javatpoint.com/artificial-intelligence-tutorial)
 - [Artificial Intelligence Tutorial - TutorialsPoint](https://www.tutorialspoint.com/artificial_intelligence/index.htm)
@@ -26,6 +26,11 @@ AI **Tools/Compiler**
 - [TensorFire Fast Style Transfer](https://tenso.rs/demos/fast-neural-style/)
 - [RNN Based Handwriting Generation](http://www.cs.toronto.edu/~graves/handwriting.cgi)
 - [QuickDraw](https://quickdraw.withgoogle.com/)
+
+**AI Practicals**
+- [Linear Classification Loss Visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
+- [K-Nearest Neighbors Demo](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
+- [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 
 **AI Projects**
 - Detecting Road Features - [Web](https://navoshta.com/detecting-road-features/) | [GitHub](https://github.com/navoshta/detecting-road-features)
