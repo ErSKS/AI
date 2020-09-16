@@ -12,6 +12,7 @@ AI **Assignments**
 
 AI **Labsheets**
 - Lab Instructions
+- [Guide to use SWI-Prolog](http://athena.ecs.csus.edu/~mei/logicp/prolog/swi-prolog.html)
 - Cover Page of Lab Report
 - Labsheets: #1 | #2 | #3 | #4 | #5 | #6 | #7
 
