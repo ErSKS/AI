@@ -92,6 +92,9 @@ AI **Tools/Compiler**
 - [Artificial Intelligence by Bhanu Priya](https://www.youtube.com/watch?v=ZIuWSWbSoJE&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&index=23)
 - [Artificial Intelligence by Shree Ram Khaitu, Nepal Telecome](https://www.youtube.com/watch?v=sWSaEIJTGxs&list=PLqMYNDIP-ioLGBVB3cCnKongtQSmp5uyL&index=9)
 
+**MIT DeepLearning**
+- [MIT Introduction to Deep Learning | 6.S191 - YouTube PlayList](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
+
 **Miscellaneous**
 - [AI Syllabus](https://github.com/ErSKS/AI/blob/master/01_Syllabus_AI.pdf)
 - AI Books
