@@ -107,6 +107,7 @@ AI **Tools/Compiler**
 - [AI Material (US)](https://www.cs.utexas.edu/~mooney/cs343/)
 - [AI Resource (Berkeley)](http://aima.cs.berkeley.edu/)
 - [AI YouTube Videos](https://www.youtube.com/playlist?list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
+- [Machine Learning: Living in the Age of AI | A WIRED Film](https://www.youtube.com/watch?v=ZJixNvx9BAc)
 - [SWI Prolog Tutorial](https://www.youtube.com/watch?v=4vv3EOjtpHo&list=PLEJXowNB4kPy3_qhGksOO8ch_Di7T8_9E)
 - [AI Question Bank](https://drive.google.com/drive/folders/1toajMBDZ2Oap663ZuJxVKWqDSYgfCL-9?usp=sharing)
 - First Assessment Result - BCT III/II
