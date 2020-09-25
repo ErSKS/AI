@@ -1,0 +1,9 @@
+According to Syllabus:
+ Lab exercises will be conducted in C/C++/LISP/PROLOG/Python.
+ Laboratory Exercises:
+ Fundamental  Search  Techniques,  
+ Simple  Question Answering, 
+ Inference and Reasoning, etc.
+
+Additional Practicals:
+ Many more upto Deep Learning ...
