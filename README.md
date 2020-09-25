@@ -50,30 +50,7 @@ AI **Tools/Compiler**
 - [Cyborg Writer - Neural Text Synthesizer](https://cyborg.tenso.rs/)
 
 **AI Presentations - BCT 2074 Batch**
-1. [Image Classification - By Prashun Chitrakar](https://github.com/ErSKS/AI/blob/master/Image-Classification.pdf)
-2. [Collaborative Filtering - By Nirajan Prajapati](https://github.com/ErSKS/AI/blob/master/COLLABORATIVE-FILTERING.pdf)
-3. [Fb Face Verification - By Ajay Thakur](https://github.com/ErSKS/AI/blob/master/FB-Face-Verification.pdf)
-4. [Transfer Learning - By Lucky S. Shrestha](https://github.com/ErSKS/AI/blob/master/TRANSFER-LEARNING.pdf)
-5. [Word Embedding - By Prasanna Adhikari](https://github.com/ErSKS/AI/blob/master/WORD-EMBEDDINGS.pdf)
-6. [Data Mining - By Sujata Suwal](https://github.com/ErSKS/AI/blob/master/DATA-MINING.pdf)
-7. [Real Time Strategy Games - By Sahas Prajapati](https://github.com/ErSKS/AI/blob/master/Real-Time-Strategy-Games.pdf)
-8. [Artificial General Intelligence - By Sachit K. Shrestha](https://github.com/ErSKS/AI/blob/master/AGI.pdf)
-9. [Object Recognition - By Bibek Shyama](https://github.com/ErSKS/AI/blob/master/Object-Recognition.pdf)
-10. [Pose Estimation - By Niranjan Bekoju](https://github.com/ErSKS/AI/blob/master/Pose-Estimation.pdf)
-11. [Twitter's AI - By Anusha Bajracharya](https://github.com/ErSKS/AI/blob/master/Twitters-AI.pdf)
-12. [Human Robot Interaction - By Bikesh Sitikhu](https://github.com/ErSKS/AI/blob/master/HRI.pdf)
-13. [Industrial Revolution v4.0 - By Luja Shakya](https://github.com/ErSKS/AI/blob/master/Industrial-Revolution-v4.0.pdf)
-14. [Adversarial Attack - By Ram Katawal](https://github.com/ErSKS/AI/blob/master/ADVERSIAL-ATTACK.pdf)
-15. [Dimensionality Reduction - By Rohit Prajapati](https://github.com/ErSKS/AI/blob/master/Dimensionality-Reduction.pdf)
-16. [Deep Neural Network - By Ankit Shrestha](https://github.com/ErSKS/AI/blob/master/Deep-Neural-Network.pdf)
-17. Data Augmentation
-18. Generative Models
-19. Block Chain
-20. Visual Reasoning
-21. Continual Reasoning
-22. IBM Watson
-23. Domain Adaptation
-24. 2D PCA
+- [2074 Batch List](https://github.com/ErSKS/AI/issues/3)
 
 **AI Research Paper Presentation**
 
