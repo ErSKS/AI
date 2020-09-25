@@ -1,0 +1,4 @@
+- Each team should do presentation on the research paper related to your minor project with confirmation, but you can pick recent SOTA paper as well.
+- Max 2 member/team
+- No. of Slides: 25-35
+- Presentation Time: 15 Minutes
