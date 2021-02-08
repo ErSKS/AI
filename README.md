@@ -55,6 +55,7 @@ AI **Tools/Compiler**
 **AI Research Paper Presentation**
 
 **Useful Websites**
+- https://www.edureka.co/blog/artificial-intelligence-with-python/
 - https://bctnotes.com/artificial-intelligence/
 - http://www.ioenotes.edu.np/notes/chapter-wise-notes-of-artificial-intelligence-ai-ioe-computer-engineering-286
 - http://aima.cs.berkeley.edu/index.html
