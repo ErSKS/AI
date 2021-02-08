@@ -107,4 +107,11 @@ AI **Tools/Compiler**
 - [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Paper with Code](https://paperswithcode.com/)
 - [SOTA in Machine Learning](https://paperswithcode.com/sota)
- - [Deep Learning In 5 Minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
+- [Deep Learning In 5 Minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
+
+** Deep Learning (DL) **
+-  [Fundamentals of Deep Learning](https://courses.analyticsvidhya.com/courses/fundamentals-of-deep-learning?utm_source=blog&utm_medium=google-colab-machine-learning-deep-learning)
+-  [Articles on Deep Learning](https://www.analyticsvidhya.com/blog/category/deep-learning/?utm_source=blog&utm_medium=google-colab-machine-learning-deep-learning)
+-  [Introduction to Neural Networks](https://courses.analyticsvidhya.com/courses/Introduction-to-Neural-Networks?utm_source=blog&utm_medium=google-colab-machine-learning-deep-learning)
+-  [Computer Vision using Deep Learning](https://courses.analyticsvidhya.com/courses/computer-vision-using-deep-learning-version2?utm_source=blog&utm_medium=google-colab-machine-learning-deep-learning)
+
